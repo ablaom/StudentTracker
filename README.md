@@ -4,7 +4,7 @@
 > participation and grades. Written in Python 2.7
 
 To use, clone the repository and, from within the directory of the clone, enter
-"log.py" at the command line. At the prompt type <TAB> to get options.
+"log.py" at the command line. At any stage, type `TAB` at the prompt to get options.
 
 Works if Python 2.7.13 is installed.
 
