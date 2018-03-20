@@ -1,0 +1,26 @@
+(dp0
+F1521588785.434044
+((lp1
+S'activity_1'
+p2
+aS'student_1'
+p3
+aS'course_4'
+p4
+aS'week_2'
+p5
+aS'semester_7'
+p6
+aS'provider_1'
+p7
+a(dp8
+S'topics'
+p9
+S'trig'
+p10
+sS'duration in hours'
+p11
+S'2'
+p12
+stp13
+s.
